@@ -16,7 +16,7 @@ const useLoginUser = ({ onSuccess, onError }) => {
 				safeInvoke(onSuccess)
 			} else {
 				safeInvoke(onError, {
-					message: 'Password is incorrect!',
+					message: 'Password is incorrect!\nHint: use "realtime"',
 				})
 			}
 			setLoading(false)
