@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be017d6f958e0dc4a43881bf67d9b9d2",
+    "revision": "9c8756592e3508da4ba106866cebe83f",
     "url": "/hru/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hru/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "a424a52b8be67e0992c5",
+    "revision": "a36aa2f7dc5ffbbc207d",
     "url": "/hru/static/css/main.b80ab658.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hru/static/js/2.aaec9016.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a424a52b8be67e0992c5",
-    "url": "/hru/static/js/main.52b5009b.chunk.js"
+    "revision": "a36aa2f7dc5ffbbc207d",
+    "url": "/hru/static/js/main.45b32362.chunk.js"
   },
   {
     "revision": "4188200b4161673510d5",
